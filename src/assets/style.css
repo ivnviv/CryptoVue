@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,200&family=Quicksand:wght@300&display=swap');
+
+
+body {
+    background: rgb(86,18,91);
+    background: linear-gradient(339deg, rgba(86,18,91,1) 0%, rgb(40,10,80,1) 100%);
+    min-height: 100vh;
+    text-align: center;
+    font-family: 'Karla', cursive;
+}
+
+h1 {
+    font-family: 'Quicksand', cursive;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 8em;
+}
+
+.result-text {
+    font-family: 'Quicksand', cursive;
+    font-size: 2em;
+}
