@@ -1,5 +1,5 @@
 <template>
-  <h1>CRYPTO1</h1>
+  <h1>CRYPTO</h1>
   <Input :convert="convert" :change-amount="changeAmount"></Input>
   <p v-if="error !== ''">{{ error }}</p>
   <p v-if="result !== 0" class="result-text">{{ result }}</p>
